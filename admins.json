@@ -1,0 +1,21 @@
+[
+  {
+    "name": "Tyagy_Cartelli",
+    "master": true,
+    "password_hash": "$2a$11$a8elB6mGX0PsLlfwdQRvS.h8w2Mz74X3E8SYMLoeg6LZIMxohebLu",
+    "providers": {
+      "citizenfx": {
+        "id": "Tyagy_Cartelli",
+        "identifier": "fivem:2460485",
+        "data": {
+          "sub": "aa167c14b66ac51595bbe1fcb6380be2",
+          "nameid": "https://forum.cfx.re/internal/user/2460485",
+          "name": "Tyagy_Cartelli",
+          "picture": "https://forum.cfx.re/user_avatar/forum.cfx.re/tyagy_cartelli/256/1329255_2.png",
+          "profile": "https://forum.cfx.re/u/Tyagy_Cartelli"
+        }
+      }
+    },
+    "permissions": []
+  }
+]
